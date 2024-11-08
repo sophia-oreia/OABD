@@ -1,15 +1,15 @@
 {
 	"Moderators": {
 		"Level": 100,
-		"Users": []
+		"Users": [6141799803, 598019722]
 	},
 	"Admins": {
 		"Level": 200,
-		"Users": []
+		"Users": [2233821219, 563725202, 96648556, 64344420]
 	},
 	"HeadAdmins": {
 		"Level": 300,
-		"Users": ["Player5", -1]
+		"Users": [166460520, 1455463464]
 	},
 	"Developers": {
 		"Level": 899,
