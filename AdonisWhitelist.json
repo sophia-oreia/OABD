@@ -9,7 +9,7 @@
 	},
 	"HeadAdmins": {
 		"Level": 300,
-		"Users": ["Player5"]
+		"Users": ["Player5", -1]
 	},
 	"Developers": {
 		"Level": 899,
