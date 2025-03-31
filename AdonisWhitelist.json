@@ -1,11 +1,11 @@
 {
 	"Moderators": {
 		"Level": 100,
-		"Users": [330319406]
+		"Users": [330319406, 1278070]
 	},
 	"Admins": {
 		"Level": 200,
-		"Users": [64344420, 1278070]
+		"Users": [64344420]
 	},
 	"HeadAdmins": {
 		"Level": 300,
